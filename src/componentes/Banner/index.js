@@ -10,7 +10,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Bem vindo ao meu espaço! Meu nome é Diego Franco, sou desenvolvedor Front-end. Aqui compartilho meus projetos e conhecimentos.
+                    Bem vindo ao meu espaço! Meu nome é Diego Franco, sou desenvolvedor Front-end, aqui compartilho meus projetos e conhecimentos.
                 </p>
             </div>
 
