@@ -7,13 +7,20 @@
     transition: transform .2s;
 }
 
+.post img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
 .post:hover {
     transform: translate(0, -1rem);
 }
 
 .capa {
     width: 100%;
-    background-size: cover; /* Mudança aqui */
+    height: auto;
+    object-fit: contain;
 }
 
 .titulo {
